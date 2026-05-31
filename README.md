@@ -12,4 +12,4 @@
 ## Installing
 If you don't know how to install custom Plugins, follow [this Guide](https://docs.vencord.dev/installing/custom-plugins/)
 
-This is a forked version RAWRR
+This is a forked version RAWRR (not talking about [This](https://github.com/ScribblrBot/MoreCustomBadge)) i made this one too
